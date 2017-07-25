@@ -148,6 +148,13 @@
   url: https://dojo.ministryoftesting.com/events/testbash-manchester-2017
   twitter: ministryoftest
   status: Registration is open
+  
+  - name: Australian Testing Days (#AusTD17) 2017
+  location: Sydney, Australia
+  dates: "October 30, 2017"
+  url: http://www.australiantestingdays.com/
+  twitter: @AussieTesters , #AusTD17
+  status: Registration is open
 
 - name: EuroSTAR Software Testing Conference 2017
   location: Copenhagen, Denmark
